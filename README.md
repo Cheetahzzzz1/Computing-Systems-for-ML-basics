@@ -11,3 +11,5 @@ To run the following Python notebook we need to install the following dependenci
         pip install numpy pandas matplotlib
 
 # Problem Breakdown
+
+<ins> Problem 1 : Mean Calculation
