@@ -17,3 +17,7 @@ To run the following Python notebook we need to install the following dependenci
 1. Function name : findMean(points)
 
 2. Description : Computes the mean for each dimension of the dataset.
+
+3. Implementation : Iterates over the dataset, sums values per dimension, and computes the average.
+
+<ins> Problem 2 : Standard Deviation Calculation</ins>
