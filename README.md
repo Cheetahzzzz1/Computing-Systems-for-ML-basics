@@ -12,4 +12,8 @@ To run the following Python notebook we need to install the following dependenci
 
 # Problem Breakdown
 
-<ins> Problem 1 : Mean Calculation
+<ins> Problem 1 : Mean Calculation</ins>
+
+1. Function name : findMean(points)
+
+2. Description : Computes the mean for each dimension of the dataset.
