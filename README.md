@@ -21,3 +21,9 @@ To run the following Python notebook we need to install the following dependenci
 3. Implementation : Iterates over the dataset, sums values per dimension, and computes the average.
 
 <ins> Problem 2 : Standard Deviation Calculation</ins>
+
+1. Function Name : findStd(points)
+
+2. Description : Computes the standard deviation for each dimension.
+
+3. Implementation : 
