@@ -26,4 +26,6 @@ To run the following Python notebook we need to install the following dependenci
 
 2. Description : Computes the standard deviation for each dimension.
 
-3. Implementation : 
+3. Implementation : Uses the mean to calculate variance and then the standard deviation.
+
+# Results & Outputs
