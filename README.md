@@ -29,3 +29,11 @@ To run the following Python notebook we need to install the following dependenci
 3. Implementation : Uses the mean to calculate variance and then the standard deviation.
 
 # Results & Outputs
+
+1. The notebook prints the computed statistical measures.
+
+2. Results may include visual representations, such as histograms or line plots.
+
+# Conclusion
+
+This notebook provides a foundationfor statistical computations, essential for understanding machine learning data preprocessing.
